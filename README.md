@@ -13,15 +13,15 @@ The project uses a subset of the CULane dataset [1]. Unfortunately, due to licen
 
 ## Installation
   1. Clone this repository to your local machine using the following command:
-```http
+```bash
   git clone https://github.com/zubeydecivelek/Lane-Detection.git
 ```
 2. Navigate to the project directory:
-```http
+```bash
   cd lane-detection
 ```
 3. Install the required dependencies:
-```http
+```bash
   pip install
 ```
 [1] CULane Dataset: http://xingangpan.github.io/projects/CULane.html
